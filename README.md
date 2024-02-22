@@ -1,5 +1,7 @@
 # hackdex
 
+Here are some bios of people who are hacking the planet. They used to be high schoolers, too, and understand how much work it is to get to where you want to be. Check out the dope stuff they are doing:
+
 <details>
   <summary><a href="https://breadchris.com/">breadchris - hack the planet</a></summary>
   If you want to know my origin story, you can read about it <a href="https://breadchris.com/blog/how-i-got-to-where-i-am/">here</a>.
